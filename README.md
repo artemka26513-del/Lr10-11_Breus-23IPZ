@@ -132,5 +132,4 @@
 ## Додатки
 
 - **Логічна структура сайту**
-
-- **Діаграма «Use Case»**
+![alt next](https://github.com/artemka26513-del/Lr10-11_Breus-23IPZ/blob/main/Logic%20Structure.jpg)
